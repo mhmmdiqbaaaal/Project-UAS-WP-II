@@ -28,14 +28,10 @@ Aplikasi ini dibuat dengan:
 * Buat database dengan nama **kasir**
 * Import file kasir.sql
 * Taruh project ini di htdocs
-
-## Screenshot
-
-![Dashboard](https://i.ibb.co/3vV25Gv/dashboard.png)
-![Transaksi](https://i.ibb.co/25jpLqL/transaksi.png)
-![Stok](https://i.ibb.co/f4XF8MN/stok.png)
-
 Silahkan gunakan aplikasi ini dengan bijak
+
+## Sosial Media
+
 Follow Sosial Media :
 Instagram : @mhmmdiqbaaaal https://www.instagram.com/mhmmdiqbaaaal/
 Youtube   : Iqbal Alasad   https://www.youtube.com/channel/UCEx7o9H1UD2UBFBpYHBOlxA
