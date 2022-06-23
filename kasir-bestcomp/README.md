@@ -32,6 +32,6 @@ Silahkan gunakan aplikasi ini dengan bijak
 
 ## Sosial Media
 
-*Follow Sosial Media :
-*Instagram : @mhmmdiqbaaaal https://www.instagram.com/mhmmdiqbaaaal/
-*Youtube   : Iqbal Alasad   https://www.youtube.com/channel/UCEx7o9H1UD2UBFBpYHBOlxA
+* Follow Sosial Media :
+* Instagram : @mhmmdiqbaaaal https://www.instagram.com/mhmmdiqbaaaal/
+* Youtube   : Iqbal Alasad   https://www.youtube.com/channel/UCEx7o9H1UD2UBFBpYHBOlxA
